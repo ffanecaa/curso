@@ -4,7 +4,7 @@
 h1,
 h2 {
     font-family: 'roboto';
-    font-size: 80px;
+
     color: rgb(218, 182, 182);
     text-shadow: 2px 2px 4px #000;
 }
@@ -64,6 +64,7 @@ header{
     position:absolute;
     display:block;
     text-align: center;
+   
     left: 60px;
      top:0;
      height: 75px;
@@ -75,6 +76,7 @@ a{
     display: inline-block;
     text-decoration: none;
     padding: 10px 20px;
+    margin-right: 20px;
     box-shadow: 2px 2px 2px #000;
     border: 1px solid white;
     color:white;}
