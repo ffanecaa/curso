@@ -80,6 +80,11 @@ a{
     box-shadow: 2px 2px 2px #000;
     border: 1px solid white;
     color:white;}
+    a:hover {
+        color: hotpink}
+        a:visited {
+            color: rgb(23, 0, 128);
+          }  
 
 .form {
     position: absolute;
